@@ -1,0 +1,3 @@
+Links = //h2[@class="entry-title"]/a/@href
+Titles = //h2[@class="entry-title"]/a/text()
+Body = //div[@class="entry-wrapper"]/text()
